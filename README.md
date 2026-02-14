@@ -74,7 +74,7 @@ Proper mitigation strategies include:
 
 ## 📂 Repository Structure
 
-- `/report` → Final project report
+- `Network Mapper Report.pdf` → Final project report
 
 ---
 
