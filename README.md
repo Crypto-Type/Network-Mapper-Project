@@ -2,7 +2,7 @@
 
 Network Reconnaissance and Enumeration using Nmap
 
-# Network Scanner Project – Enterprise Reconnaissance Using Nmap
+# Network Scanner Project – Reconnaissance Using Nmap
 
 ## 👨‍💻 Author
 S Aravind  
@@ -13,7 +13,7 @@ Bharathiar University
 
 ## 📌 Project Overview
 
-This project demonstrates network reconnaissance and enumeration using Nmap against an authorized vulnerable lab machine (Metasploitable).
+This project demonstrates network reconnaissance and enumeration using Nmap against an vulnerable lab machine (Metasploitable).
 
 The objective was to simulate real-world attacker reconnaissance techniques and analyze findings from:
 
